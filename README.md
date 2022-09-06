@@ -11,7 +11,7 @@
  
  Execute **npm install** to install npm
  
- Execute **npx playwright install** 
+ Execute **npx playwright install** playwright
  
  Execute **npx playwright test** to run the tests
  
