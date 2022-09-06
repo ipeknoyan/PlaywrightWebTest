@@ -9,9 +9,11 @@
  
  Nodejs v16.15.1
  
- Execute **npm install** to install packages
+ Execute **npm install** to install npm
  
- Execute **npx playwright** test to run the tests
+ Execute **npx playwright install** 
+ 
+ Execute **npx playwright test** to run the tests
  
 # Next Possible Steps for Improvements
  * Test scenarios can be created with BDD method.
